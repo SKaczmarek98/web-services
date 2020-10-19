@@ -14,7 +14,7 @@ app.post('/soap', function(req, res)  {
     res.send('Hello World')
 })
 
-  app.post('/rest', function(req, res)  {
+app.post('/rest', function(req, res)  {
     res.send('Hello World')
 })
 
